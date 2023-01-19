@@ -6,5 +6,7 @@ project is written in flutter, clone the project, install the required dependenc
 
 you can get your personal API Key at https://beta.openai.com/account/api-keys, create an account for free to access the API Key
 
-![Screenshot_20230119-130200](https://user-images.githubusercontent.com/79569415/213547151-bfc9a057-c8de-4dd1-ac81-2ba0a8db5748.png)  ![Screenshot_20230119-130200](https://user-images.githubusercontent.com/79569415/213547193-7a74959b-f768-42c3-abe9-eadf3106015b.png)
+![Screenshot_20230119-130200](https://user-images.githubusercontent.com/79569415/213547151-bfc9a057-c8de-4dd1-ac81-2ba0a8db5748.png)  ![Screenshot_20230119-130200](https://user-images.githubusercontent.com/79569415/213547784-7e93d5fb-9f77-425e-9e65-e66030dc7456.png)
 
+
+![Screenshot_20230119-130100](https://user-images.githubusercontent.com/79569415/213547863-7d616518-f318-476b-a0dd-2151fc656e53.png)
